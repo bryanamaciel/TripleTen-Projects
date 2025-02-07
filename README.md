@@ -5,7 +5,7 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 | :-----------: | ----------- |----------- |
 | 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 3 | [Zuber Project](https://github.com/bryanamaciel/TripleTen-Projects/tree/main/Zuber%20Project) | A SQL analysis for the ride share company Zuber. |
 | 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 5 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
