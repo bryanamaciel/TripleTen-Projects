@@ -10,7 +10,8 @@ The main objective of the assignment was to analyze Fresh Beats' business data a
 <img width="372" alt="Screenshot 2025-02-16 at 8 06 31 PM" src="https://github.com/user-attachments/assets/8e1585d4-61a1-4223-b5de-f360f908c926" />
 <img width="383" alt="Screenshot 2025-02-16 at 8 07 36 PM" src="https://github.com/user-attachments/assets/2c19f059-0d2e-4738-979f-497aa28c3786" />
 
-<img width="655" alt="Screenshot 2025-02-16 at 7 59 53 PM" src="https://github.com/user-attachments/assets/2cebbdee-e0ad-4ead-b2a8-8fa7a00300e9" />
+<img width="689" alt="Screenshot 2025-02-16 at 9 00 45 PM" src="https://github.com/user-attachments/assets/33ab7ccc-fb97-4c66-90b3-8b7bdd683ee7" />
+
 
 
 Data:
