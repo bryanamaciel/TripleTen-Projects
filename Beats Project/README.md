@@ -38,8 +38,8 @@ Primary Findings
 
 Reccomendations:
 
-*** Expand the selection of Electronic and Hip-Hop tracks: Actively seek out relevant artists in these genres and offer strategic deals, such as time-limited free promotions, to attract both creators and listeners.
-*** Leverage Rock’s popularity among free users: Conduct research and experiments to determine how this genre can be used to encourage upgrades to paid subscriptions, such as exclusive content or premium-only features.
+- *** Expand the selection of Electronic and Hip-Hop tracks: Actively seek out relevant artists in these genres and offer strategic deals, such as time-limited free promotions, to attract both creators and listeners.
+- *** Leverage Rock’s popularity among free users: Conduct research and experiments to determine how this genre can be used to encourage upgrades to paid subscriptions, such as exclusive content or premium-only features.
 
 
 
