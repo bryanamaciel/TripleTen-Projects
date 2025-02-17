@@ -16,18 +16,23 @@ The main objective of the assignment was to analyze Fresh Beats' business data a
 Data:
 
 The data presented on Google spreadsheet file provided by TripleTen:
+- 'sprint 0 BIA Welcome Sprint Project. Fresh Beats User Data': each row represents a unique combination of multiple dimensions.
+- 'year': indicates the year the data was collected for each dimension.
+- 'user_tier': Boolean data classifying users as either Free or Paid Subscribers.
+- 'genre': contains a string value specifying the music genre listened to.
+- 'number_of_users': the total count of users within each dimension.
+- 'tracks_listened': the total number of music plays recorded for each dimension.
 
-'sprint 0 BIA Welcome Sprint Project. Fresh Beats User Data': each row represents a unique combination of multiple dimensions.
+Initial Assumptions:
 
-'year': indicates the year the data was collected for each dimension.
+- Insights and Visualizations Quality: Assumes that the insights and visual representations derived from the data are accurate and reliable.
+- Data Availability: Assumes that the dataset contains all necessary information for analyzing user engagement and business challenges.
+- Data Accuracy: Assumes that the spreadsheet data correctly reflects user behavior on the Fresh Beats platform.
 
-'user_tier': Boolean data classifying users as either Free or Paid Subscribers.
 
-'genre': contains a string value specifying the music genre listened to.
 
-'number_of_users': the total count of users within each dimension.
 
-'tracks_listened': the total number of music plays recorded for each dimension.
+
 
 
 
