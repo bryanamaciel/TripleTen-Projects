@@ -29,8 +29,17 @@ Initial Assumptions:
 - Data Availability: Assumes that the dataset contains all necessary information for analyzing user engagement and business challenges.
 - Data Accuracy: Assumes that the spreadsheet data correctly reflects user behavior on the Fresh Beats platform.
 
+Primary Findings
 
+- Paid users show higher engagement: They listen to more tracks and have better retention rates. Encouraging free users to upgrade to paid subscriptions should be a primary focus to boost engagement and revenue.
+- User preferences vary by subscription type: Free users favor Rock, while paid users prefer Indie. Personalizing recommendations based on these preferences can enhance user satisfaction and interaction.
+- Pop music is losing popularity: Genres like Electronic and Hip-Hop are gaining traction. Fresh Beats should adjust its music curation strategy to reflect these evolving trends.
+- Emerging artist promotion should align with trends: With shifting genre preferences, Fresh Beats can optimize artist promotion by focusing on growing genres to attract and retain listeners.
 
+Reccomendations:
+
+*** Expand the selection of Electronic and Hip-Hop tracks: Actively seek out relevant artists in these genres and offer strategic deals, such as time-limited free promotions, to attract both creators and listeners.
+*** Leverage Rock’s popularity among free users: Conduct research and experiments to determine how this genre can be used to encourage upgrades to paid subscriptions, such as exclusive content or premium-only features.
 
 
 
