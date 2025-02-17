@@ -14,7 +14,9 @@ The main objective of the assignment was to analyze Fresh Beats' business data a
 
 
 Data:
+
 The data presented on Google spreadsheet file provided by TripleTen:
+
 'sprint 0 BIA Welcome Sprint Project. Fresh Beats User Data': each row represents a unique combination of multiple dimensions.
 'year': indicates the year the data was collected for each dimension.
 'user_tier': Boolean data classifying users as either Free or Paid Subscribers.
