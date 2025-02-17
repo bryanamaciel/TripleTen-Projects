@@ -1,22 +1,18 @@
 Requirements: 
 
-Part 1: App Landscape
+The objective is to create a total of 3 Power BI pages that go as followed:
 
-First, we’ll find key statistics on the types of apps that are out there. This question uses the Apps table. Make a new sheet in your Power BI (.pbix ) file called App Landscape for this question. Remember to take a screenshot for each question answered.
+1.) App Landscape:
+- Make a KPI Card (a visual with a single number) that counts the unique number of apps.
+- Make a Line Chart getting the sum of the review count on the Y-axis, and the lastmod date on the X-Axis. 
+- Make a Scatterplot with the reviews_count on the X axis and the average rating on the Y axis.
 
-Make a KPI Card (a visual with a single number) that counts the unique number of apps. Add it to your App Landscape sheet.
-Make a Line Chart getting the sum of the review count on the Y-axis, and the lastmod date on the X-Axis. Hint: lastmod date should not be in “date hierarchy” format for your X-Axis.
-Make a Scatterplot with the reviews_count on the X axis and the average rating on the Y axis. Annotate your interpretation of this with an inserted Text Box next to this scatterplot.
-Part 2: Reviews
+2.) Reviews:
+- Create a card that shows the average of helpful reviews.
+- Create a scatterplot that shows the average rating in comparison to developer response.
 
-Make a new sheet in your .pbix file for this new section, named Reviews. Remember to take a screenshot for each question answered.
-
-Create a new Column in the Reviews table named helpful_reviews using a DAX expression, which multiplies the rating by 1+helpful_count to weigh the reviews by how helpful they’ve been found. The formula in mathematical form would be rating * (1+helpful_count). Make a Card with the average value of the new helpful_reviews column.
-Create a new Column in the Reviews table named developer_answered using a DAX expression, which is 1 (or TRUE) if the developer_reply column is not blank and 0 (or FALSE) if the column row is blank. Make a scatterplot comparing the average rating on the Y-Axis by the value of the developer_answered column on the X-Axis.
-Part 3: App Reviews
-
-Make a new sheet in your .pbix file for this new section, named App Reviews. Remember to take a screenshot for each question answered.
-
-In the data model, create a new relationship between the Reviews table and the Apps table. Use the app_id column from the Reviews table, the id column from the Apps table. Make the relationship many-to-one built as many (Reviews table) to one (Apps table). Using this new table, make a bar chart with the developer on the X-Axis, and the sum of rating on the Y-Axis.
-The chart in the previous question is misleading because an app could have a high sum of rating because it has many one-star reviews. Make a new bar chart with developer on the X-Axis against the helpful_review average on the Y-Axis.
-Which developers are the most responsive? Make a bar chart with the developer from the apps table and the developer_answered column you created in question 2.2. Add a Filter for this visual only which selects only the rows where reviews_count is greater than 500.
+3.) App Reviews:
+- Create a visual which shows the relationship between the Reviews table and the Apps table.
+- Create a Bar Chart that compares Developer and Sum of Rating.
+- Create another Bar Chart that compares Developer and average helpful review.
+- Create a Bar chart which shows the amount of developers who are responsive (only include apps that have 500+ reviews).
