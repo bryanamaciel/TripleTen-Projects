@@ -1,0 +1,1 @@
+This was my sixth project in the TripleTen Business Intelligence Analytics Program, focused on applying my Power BI skills. I analyzed data from publicly available Shopify websites to explore the app landscape and identify key factors that contribute to a Shopify app’s success.
