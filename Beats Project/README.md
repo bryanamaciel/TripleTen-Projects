@@ -18,10 +18,15 @@ Data:
 The data presented on Google spreadsheet file provided by TripleTen:
 
 'sprint 0 BIA Welcome Sprint Project. Fresh Beats User Data': each row represents a unique combination of multiple dimensions.
+
 'year': indicates the year the data was collected for each dimension.
+
 'user_tier': Boolean data classifying users as either Free or Paid Subscribers.
+
 'genre': contains a string value specifying the music genre listened to.
+
 'number_of_users': the total count of users within each dimension.
+
 'tracks_listened': the total number of music plays recorded for each dimension.
 
 
