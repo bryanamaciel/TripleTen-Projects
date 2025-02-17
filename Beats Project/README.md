@@ -8,3 +8,6 @@ The main objective of the assignment was to analyze Fresh Beats' business data a
 ![image](https://github.com/user-attachments/assets/0f6930b1-8159-4d47-8dbd-5a028e6d3ef7)
 ![image](https://github.com/user-attachments/assets/8e11084a-1138-47ef-887f-5e6bb1100c96)
 
+<img width="655" alt="Screenshot 2025-02-16 at 7 59 53 PM" src="https://github.com/user-attachments/assets/2cebbdee-e0ad-4ead-b2a8-8fa7a00300e9" />
+|
+
