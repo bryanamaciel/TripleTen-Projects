@@ -10,8 +10,24 @@ The main objective of the assignment was to analyze Fresh Beats' business data a
 <img width="372" alt="Screenshot 2025-02-16 at 8 06 31 PM" src="https://github.com/user-attachments/assets/8e1585d4-61a1-4223-b5de-f360f908c926" />
 <img width="383" alt="Screenshot 2025-02-16 at 8 07 36 PM" src="https://github.com/user-attachments/assets/2c19f059-0d2e-4738-979f-497aa28c3786" />
 
-
-
 <img width="655" alt="Screenshot 2025-02-16 at 7 59 53 PM" src="https://github.com/user-attachments/assets/2cebbdee-e0ad-4ead-b2a8-8fa7a00300e9" />
-|
+
+
+Data:
+
+The data presented on Google spreadsheet file provided by TripleTen:
+
+'sprint 0 BIA Welcome Sprint Project. Fresh Beats User Data': each row represents a unique combination of multiple dimensions.
+
+'year': indicates the year the data was collected for each dimension.
+
+'user_tier': Boolean data classifying users as either Free or Paid Subscribers.
+
+'genre': contains a string value specifying the music genre listened to.
+
+'number_of_users': the total count of users within each dimension.
+
+'tracks_listened': the total number of music plays recorded for each dimension.
+
+
 
