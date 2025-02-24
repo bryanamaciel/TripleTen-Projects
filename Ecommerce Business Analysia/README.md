@@ -1,0 +1,1 @@
+The purpose was to analyze user activity on an e-commerce website by creating a conversion funnel, preparing data for cohort analysis, and calculating retention rates to provide actionable business insights.
