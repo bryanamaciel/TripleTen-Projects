@@ -1,6 +1,25 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2820
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+Expected Requirements:
+
+Build a Conversion Funnel:
+- Create a conversion funnel using the "raw_user_activity" sheet.
+- Identify three stages (e.g., product page views, shopping cart activity, and purchases).
+- Count unique users for each stage and calculate total conversion rates and conversion rates to the next step.
+
+Prepare Data for Cohort Analysis:
+- Filter the purchase events from the "raw_user_activity" sheet and copy them to a new sheet called "purchase_activity."
+- Calculate the first purchase date for each user using a pivot table.
+- Add the first purchase date to the "purchase_activity" sheet using the VLOOKUP function.
+- Create event_month, first_purchase_month, and cohort_age columns to group and track data for cohort analysis.
+
+Calculate Retention Rates:
+- Create a pivot table in the "cohort_analysis" sheet to group data by first purchase month and cohort age.
+- Calculate retention rates in the retention_rates sheet based on the cohort sizes and retention for each cohort age (1-4 months).
+
+Organize and Document Your Spreadsheet:
+- Fill out the Executive Summary sheet with key findings from the conversion_funnel and retention_rates sheets.
+- Explain your assumptions and analysis methods (e.g., data used, calculations for conversion rates, cohort formation, retention rate calculations).
+- Reorder the sheet tabs for clarity and include a Table of Contents.
+- Format your spreadsheet for readability, with proper formatting, borders, and highlighting.
+
+Submit Your Project:
+- Share the link to your Google Sheets file with view-only access for reviewers.
