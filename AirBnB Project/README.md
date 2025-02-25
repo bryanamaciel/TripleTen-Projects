@@ -37,9 +37,13 @@ The data was one Google spreadsheet file provided by TripleTen:
 ***Findings:
 
 -- The top 10 popular neighborhoods for vacation rentals are the following in decending order: Lower East Side, Hell's Kitchen, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Nolita.
+
 -- Most Attractive Neighborhoods: The top 10 neighborhoods with the highest number of reviews in the past 12 months are identified as the most attractive for vacation rentals. These neighborhoods reflect the highest rental frequency, indicating strong demand.
+
 -- Most Popular Property Sizes: The most popular property size for vacation rentals across the top 10 neighborhoods is typically one-bedroom units. Midtown, however, stands out with studios being the most popular. Harlem, in particular, prefers 2-bedroom properties.
+
 -- Revenue Generation: The top-earning listings are calculated by aggregating the revenue from rented properties in the top neighborhoods. The highest-earning listing in the analysis generated $29,940 during a 30-day period, with an estimated annual revenue of $358,680.
+
 -- These findings suggest that investing in one-bedroom properties across the top neighborhoods (except for Midtown, where studios are most popular) could yield the highest return on investment. The analysis also recommends focusing on neighborhoods with high rental frequencies for optimal profitability.
 
 ***Reccomendations:
