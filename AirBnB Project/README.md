@@ -7,11 +7,15 @@ This project involved analyzing Manhattan's vacation rental market using Airbnb 
 
 ***Process:
 
-Cleaned the data by standardizing the "neighborhood" and "bedrooms" columns to remove inconsistencies.
-Created pivot tables to identify the most attractive neighborhoods based on the number of reviews in the last 12 months.
-Analyzed property sizes by generating pivot tables to determine the most popular listings for vacation rentals, with a focus on neighborhoods like Harlem.
-Calculated revenue generation by using the "calendar" data, summing nightly revenue, and estimating annual earnings for top listings.
-Visualized findings to provide actionable insights on the best neighborhoods and property types for investment.
+1.) Cleaned the data by standardizing the "neighborhood" and "bedrooms" columns to remove inconsistencies.
+
+2.) Created pivot tables to identify the most attractive neighborhoods based on the number of reviews in the last 12 months.
+
+3.) Analyzed property sizes by generating pivot tables to determine the most popular listings for vacation rentals, with a focus on neighborhoods like Harlem.
+
+4.) Calculated revenue generation by using the "calendar" data, summing nightly revenue, and estimating annual earnings for top listings.
+
+5.)Visualized findings to provide actionable insights on the best neighborhoods and property types for investment.
 
 ***Data: 
 
