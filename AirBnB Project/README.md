@@ -18,8 +18,11 @@ Visualized findings to provide actionable insights on the best neighborhoods and
 The data was one Google spreadsheet file provided by TripleTen:
 
 'nyc_airbnb_data.csv': each row corresponds to one listing on AirBnB in September 2022
+
 'data_dictionary': summary of field titles seen in the file and its data type
+
 'listings': unique listings available with all available data
+
 'calendar': listings with upcoming availabilities and date-type data
 
 ***Assumptions:
