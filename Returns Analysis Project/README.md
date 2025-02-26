@@ -49,3 +49,16 @@ The data was one Excel spreadsheet file provided by TripleTen:
 - The location of the order delivery is a factor, with Utah showing particular issues.
   
 - Returns spike significantly in August, with September following closely, correlating with higher purchase volumes.
+
+*** Reccomendations:
+
+- Provide additional training for employees in the technology department to help customers select the right products.
+Contact customers with a 100% return rate to understand the reasons behind their returns and make necessary adjustments to the website or shipping partners.
+
+- Temporarily stop selling problematic products as a short-term solution.
+  
+- Focus on updating product information, improving size guides, and boosting customer reviews through social media partnerships.
+  
+- Consider implementing stricter return policies or charging a return fee for purchases from high-return states.
+  
+- Revise promotional strategies, such as offering gift cards during peak holiday times and shifting from discounts to value-added options like free shipping.
