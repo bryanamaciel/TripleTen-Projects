@@ -14,3 +14,38 @@ This dashboard brings together various visuals to analyze the causes of returns 
 
 ![image](https://github.com/user-attachments/assets/704a5fa4-ebb6-4182-96e1-abcf7ef0bda0)
 
+*** Description:
+
+This project contains 6 Visuals and the reasons behind high return rates at Superstore using a Tableau dashboard with visualizations filtered by category. Key insights included identifying top customers and products with high return rates, mapping returns by state, and uncovering seasonal return trends. The goal was to provide the CEO with a clear understanding of return patterns and actionable strategies to reduce them.
+
+*** Process:
+
+To complete this project, I first analyzed the Superstore data by joining the Returns and Orders tables and creating visuals like scatterplots, bar charts, maps, and time-based charts to identify return patterns. Then, I designed a Tableau dashboard to showcase these insights, starting with mock-ups and adding clear labels and filters. Finally, I presented my findings in a 3-5 minute presentation, explaining the key takeaways and how the dashboard could help reduce returns.
+
+*** Data:
+
+The data was one Excel spreadsheet file provided by TripleTen:
+
+- 'Superstore.xls': each row corresponds to one product sold; sheets were LEFT JOIN'd
+ 
+- 'orders': details all fields for each ordered item
+  
+- 'returns': details all fields for each returned item
+
+*** Assumptions: 
+
+- Sales profits are currently negative.
+  
+- One or more issues related to orders and returns are contributing to the negative profits.
+  
+- The operations department will need to implement changes to address this.
+
+*** Findings: 
+
+- Some customers have exceptionally high return rates, with several having a 100% return rate.
+
+- A number of products also show unusually high return rates, with some having a 100% return rate.
+  
+- The location of the order delivery is a factor, with Utah showing particular issues.
+  
+- Returns spike significantly in August, with September following closely, correlating with higher purchase volumes.
