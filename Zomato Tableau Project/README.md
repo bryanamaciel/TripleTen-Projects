@@ -1,0 +1,1 @@
+This was my final project for the TripleTen Business Intelligence Analytics Program. It was a solo project meant to demonstrate everything I learned throughout the program. The goal was to complete the Zomato onboarding project and showcase my analytical skills to the mock company.
