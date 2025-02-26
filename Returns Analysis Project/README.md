@@ -1,5 +1,8 @@
 This was the fifth project I completed in the TripleTen Business Intelligence Analytics Program. It was a solo project aimed at demonstrating my skills in building Tableau dashboards and effective data storytelling. The goal was to provide the Superstore CEO with insights into the reasons behind customer returns and offer strategies to reduce them.
 
+![image](https://github.com/user-attachments/assets/7de3b022-2de6-45b6-b270-94db52d100ce)
+
+
 DASHBOARD:
 
 This dashboard brings together various visuals to analyze the causes of returns at Superstore, with filtering options by category.
@@ -62,3 +65,6 @@ Contact customers with a 100% return rate to understand the reasons behind their
 - Consider implementing stricter return policies or charging a return fee for purchases from high-return states.
   
 - Revise promotional strategies, such as offering gift cards during peak holiday times and shifting from discounts to value-added options like free shipping.
+
+VIDEO PRESENTATION:
+https://youtu.be/8Lg58vS3T94  
