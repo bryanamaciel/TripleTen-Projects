@@ -1,0 +1,1 @@
+This was the fifth project I completed in the TripleTen Business Intelligence Analytics Program. It was a solo project aimed at demonstrating my skills in building Tableau dashboards and effective data storytelling. The goal was to provide the Superstore CEO with insights into the reasons behind customer returns and offer strategies to reduce them.
