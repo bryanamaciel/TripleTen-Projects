@@ -5,6 +5,7 @@ Description:
 - Contains KPI cards, charts, and data analysis.
 
 Process: 
+
 *** Part 1: App Landscape
 - Created a Power BI page named App Landscape.
 - Added a KPI Card showing the total number of unique apps.
@@ -27,6 +28,7 @@ Created Bar Charts:
     - Developer vs. Responsiveness, filtered for apps with over 500 reviews.
 
 The Data:
+
 - "apps": Details of the apps on Shopify apps marketplace
 - "apps_categories": Join tables to connect apps with categories
 - "categories": Categories of the apps. Each app has multiple categories
@@ -38,4 +40,17 @@ Initial Assumptions:
 - The data extracted from the Shopify website is accurate to the App Landscape.
 
 Findings: 
-- 
+
+- New apps are more likely to receive ratings shortly after launch.
+  
+- Most app ratings are positive overall.
+  
+- Reviews tend to be higher when developers respond to them.
+  
+- Reviews marked as helpful have an average rating of 5.48.
+  
+- The developer Elfsight has the highest total combined ratings, with 135.10 stars.
+  
+- The developer Pictorem holds the highest average of helpful reviews, with 50.
+  
+- The developer FireaApps has responded to the most reviews, with 6,008 responses.
