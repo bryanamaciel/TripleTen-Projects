@@ -1,5 +1,8 @@
 This was the second project I completed in the TripleTen Business Intelligence Analytics Program. It was an independent project aimed at demonstrating my SQL skills. The goal was to analyze competitor data to identify trends in passenger preferences and assess how external factors influence ride activity.
 
+![image](https://github.com/user-attachments/assets/2bc6744a-d063-4960-b53d-f2c34f01178d)
+
+
 *** Description:
 
 This project involved a 6-step SQL query to conduct an exploratory data analysis examining whether ride durations from the Loop to O'Hare International Airport vary on rainy Saturdays.
