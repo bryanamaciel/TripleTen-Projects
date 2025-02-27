@@ -23,10 +23,13 @@ This project involved a 6-step SQL query to conduct an exploratory data analysis
 
 The analysis used a Chicago taxi ride database provided by TripleTen, including:
 
-> 'neighborhoods' table: Neighborhood names and IDs.
-> 'cabs' table: Taxi company names, cab IDs, and vehicle IDs.
-> 'trips' table: Ride details, including duration, distance, timestamps, and location IDs.
-> 'weather_records' table: Weather data, including temperature, descriptions, and timestamps.
+- 'neighborhoods' table: Neighborhood names and IDs.
+  
+- 'cabs' table: Taxi company names, cab IDs, and vehicle IDs.
+  
+- 'trips' table: Ride details, including duration, distance, timestamps, and location IDs.
+
+- 'weather_records' table: Weather data, including temperature, descriptions, and timestamps.
 
 *** Assumptions:
 
