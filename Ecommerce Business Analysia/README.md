@@ -1,8 +1,9 @@
 This was my third project in my TripleTen journey. The purpose was to analyze user activity on an e-commerce website by creating a conversion funnel, preparing data for cohort analysis, and calculating retention rates to provide actionable business insights.
 
-![image](https://github.com/user-attachments/assets/e8bdfbc2-432e-4773-a031-8fcf132040cc)
-
 ![image](https://github.com/user-attachments/assets/5d137b43-d1af-403c-8658-590ebda225c7)
+
+![image](https://github.com/user-attachments/assets/6407c442-d9f0-40fe-9150-85a59935285f)
+
 
 *** Description: 
 - This project involves analyzing raw transaction logs from an e-commerce website to derive key business metrics. The goal is to build a conversion funnel, prepare data for cohort analysis, calculate retention rates, and deliver actionable insights for the executive team.
