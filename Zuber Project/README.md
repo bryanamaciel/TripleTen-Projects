@@ -1,5 +1,7 @@
 This was the second project I completed in the TripleTen Business Intelligence Analytics Program. It was an independent project aimed at demonstrating my SQL skills. The goal was to analyze competitor data to identify trends in passenger preferences and assess how external factors influence ride activity.
 
+![image](https://github.com/user-attachments/assets/6df4f19d-02a8-40c1-b6b4-ff7476a1f5a7)
+
 ![image](https://github.com/user-attachments/assets/2bc6744a-d063-4960-b53d-f2c34f01178d)
 
 
