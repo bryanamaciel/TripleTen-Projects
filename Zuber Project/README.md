@@ -2,9 +2,6 @@ This was the second project I completed in the TripleTen Business Intelligence A
 
 ![image](https://github.com/user-attachments/assets/6df4f19d-02a8-40c1-b6b4-ff7476a1f5a7)
 
-![image](https://github.com/user-attachments/assets/2bc6744a-d063-4960-b53d-f2c34f01178d)
-
-
 *** Description:
 
 This project involved a 6-step SQL query to conduct an exploratory data analysis examining whether ride durations from the Loop to O'Hare International Airport vary on rainy Saturdays.
