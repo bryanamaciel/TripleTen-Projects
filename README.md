@@ -8,8 +8,3 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 | 3 | [Zuber Project](https://github.com/bryanamaciel/TripleTen-Projects/tree/main/Zuber%20Project) | A SQL analysis for the ride share company Zuber. |
 | 4 | [ECommerce Consult Project](https://github.com/bryanamaciel/TripleTen-Projects/tree/main/Ecommerce%20Business%20Analysia) | Analyze user activity on an e-commerce website by creating a conversion funnel. |
 | 5 | [Returns Analysis Project](https://github.com/bryanamaciel/TripleTen-Projects/tree/main/Returns%20Analysis%20Project) | Analysis of Superstore return patterns using Tableau dashboards, uncovering key drivers of returns and recommending strategies to reduce them. |
-| 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
